@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/fWHIhoX.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/fWHIhoX
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -38,7 +39,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jiamin Shi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
